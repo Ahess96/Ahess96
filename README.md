@@ -1,6 +1,8 @@
 # Austin Hess
 
-I'm a full stack software engineer and avid outdoorsman living in small town Northern California.
+Stimulated Software Engineer | Gym Rat | Dedicated Family Man
+
+I'm very competent navigating backend applications and maintain a keen eye on modern frontend trends.
 
 ## Primary Technologies
 
@@ -21,4 +23,8 @@ I'm a full stack software engineer and avid outdoorsman living in small town Nor
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-## Highlighted Projects
+## Short Term Goals
+
+- Develop large architecture team based applications
+- Dabble in Machine Learning
+- Become a CS wizard
