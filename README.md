@@ -2,7 +2,13 @@
 
 Stimulated Software Engineer | Gym Rat | Dedicated Family Man
 
-I'm very competent navigating backend applications and maintain a keen eye on modern frontend trends.
+As a dedicated Software Engineer with a background in science and medicine, I approach projects with a detail-focused mindset and strong attention to consumer quality. With a proven track record of success, I thrive in fast-paced environments, having demonstrated rapid growth and promotion throughout my career.
+
+My passion for discovery and personal growth has led me to explore an impressive array of cutting-edge technologies and tools, including JavaScript, React.js, AWS, Python, and more.
+
+In addition to my technical prowess, I possess exceptional leadership and interpersonal skills, cultivating strong relationships with clients and colleagues alike.
+
+As you review my profile, you'll find a Software Engineer who not only possesses a wealth of technical knowledge but also a relentless drive to exceed expectations and deliver the best results possible. I am eager to leverage my skills and expertise to make a significant impact as a valued member of your team, driving innovation and success in every project we undertake.
 
 ## Primary Technologies
 
@@ -28,3 +34,9 @@ I'm very competent navigating backend applications and maintain a keen eye on mo
 - Develop large architecture team based applications
 - Dabble in Machine Learning
 - Become a CS wizard
+
+## Long Term Goals
+
+- Manage a Web Development Company
+- Share my skills with anyone wanting to learn
+- Nourish an awesome family
